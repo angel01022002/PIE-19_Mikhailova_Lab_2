@@ -10,3 +10,6 @@ C:\Users\Ангел\Desktop\Институт\Информ_технологии_1
 E:\Welcome\Институт\1 курс\Информ_технологии_1_сем\ЛБ\2 cem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
 E:\Welcome\Институт\1 курс\Информ_технологии_1_сем\ЛБ\2 cem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 E:\Welcome\Институт\1 курс\Информ_технологии_1_сем\ЛБ\2 cem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Program Files\project\PIE-19_Mikhailova_Lab_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Program Files\project\PIE-19_Mikhailova_Lab_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Program Files\project\PIE-19_Mikhailova_Lab_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
