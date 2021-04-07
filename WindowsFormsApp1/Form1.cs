@@ -61,6 +61,7 @@ namespace WindowsFormsApp1
             c = Math.Sqrt(a);
             textBox3.Text = Convert.ToString(c);
             label5.Text = "Квадратный корень";
+
         }
     }
 }
